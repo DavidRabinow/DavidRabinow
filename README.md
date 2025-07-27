@@ -1,22 +1,4 @@
 
-<!--🛠️ I’m currently working on
-Building web tools and automations that solve real problems. Most of it lives over at davidrabinow.com.
-
-🤝 I’m looking to collaborate on
-Projects that involve clean code, good design, and a clear purpose. Bonus if it’s fast and useful.
-
-🧩 I’m looking for help with
-Open-source workflows and finding better ways to scale side projects without losing sleep.
-
-🌱 I’m currently learning
-More about AWS, system design, and making UIs that don’t just work — they feel good.
-
-💬 Ask me about
-Automation, full-stack dev, shipping MVPs, or turning ideas into something people actually use.
-
-⚡ Fun fact
-I taught myself to code by building things I needed. Haven’t really stopped.
-**DavidRabinow/DavidRabinow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/david_rabinow) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/david-rabinow-418b072a8/) 
