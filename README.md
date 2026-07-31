@@ -1,24 +1,69 @@
+## 🌐 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/david-rabinow-418b072a8/)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-rabinow-418b072a8/) 
+## 💻 Tech Stack
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### Languages
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DavidRabinow&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DavidRabinow&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRabinow&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=FFDD54)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=DavidRabinow&icon=0&color=0)](https://visitcount.itsvg.in)
+### Hosting and Infrastructure
 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0167FF?style=for-the-badge\&logo=digitalocean\&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge\&logo=netlify\&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=000000)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+
+### Tools and Libraries
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge\&logo=windows-terminal\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+
+## 📊 GitHub Statistics
+
+<a href="https://github.com/DavidRabinow">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=DavidRabinow&show_icons=true&include_all_commits=true&theme=gruvbox_light&hide_border=false&cache_seconds=21600"
+    alt="David Rabinow's GitHub statistics"
+  />
+</a>
+
+<a href="https://github.com/DavidRabinow?tab=repositories">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRabinow&layout=compact&langs_count=8&theme=gruvbox_light&hide_border=false&cache_seconds=21600"
+    alt="David Rabinow's most-used GitHub languages"
+  />
+</a>
+
+## 🔥 Contribution Streak
+
+<a href="https://github.com/DavidRabinow">
+  <img
+    src="https://streak-stats.demolab.com?user=DavidRabinow&theme=gruvbox-light&hide_border=false"
+    alt="David Rabinow's GitHub contribution streak"
+  />
+</a>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DavidRabinow&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=DavidRabinow&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://github.com/DavidRabinow">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=DavidRabinow&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=6"
+    alt="David Rabinow's GitHub trophies"
+  />
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👀 Profile Views
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=DavidRabinow\&label=Profile%20Views\&color=6\&icon=5\&pretty=true)](https://visitcount.itsvg.in)
