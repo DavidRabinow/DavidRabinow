@@ -1,91 +1,73 @@
 <div align="center">
 
-# 👋 Hi, I'm David Rabinow
+# Hi, I'm David Rabinow 👋
 
-### Developer • Cloud Enthusiast • Problem Solver
+### Developer • Designer • Cloud Enthusiast
 
-<p>
-  Building useful projects, learning new technologies, and improving my development skills.
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/david-rabinow-418b072a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with David Rabinow on LinkedIn">
-  </a>
-  <a href="https://github.com/DavidRabinow">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow David Rabinow on GitHub">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Rabinow-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/david-rabinow-418b072a8/)
+[![GitHub](https://img.shields.io/badge/GitHub-DavidRabinow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DavidRabinow)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 💻 Tech Stack
 
-* 💻 Interested in software development, automation, and cloud technology
-* 🐍 Building projects with Python, HTML, CSS, and C++
-* ☁️ Learning more about cloud hosting and infrastructure
-* 🛠️ Experienced with Git, GitHub, PowerShell, and Windows Terminal
-* 📈 Always working to improve my skills and build better projects
+### Languages
 
----
-
-## 💻 Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
 </p>
 
-## ☁️ Cloud and Infrastructure
+### Cloud, Hosting and Infrastructure
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+<p>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 </p>
 
-## 🛠️ Tools and Libraries
+### Tools and Libraries
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/DavidRabinow">
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=DavidRabinow&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=DavidRabinow&show_icons=true&include_all_commits=true&rank_icon=github&theme=gruvbox&hide_border=true&border_radius=10"
     alt="David Rabinow's GitHub statistics"
-  >
+  />
 </a>
 
 <a href="https://github.com/DavidRabinow?tab=repositories">
   <img
-    width="36.5%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRabinow&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRabinow&layout=compact&langs_count=8&theme=gruvbox&hide_border=true&border_radius=10"
     alt="David Rabinow's most-used programming languages"
-  >
+  />
 </a>
 
 </div>
 
-> The language card is based on code detected in public repositories. It does not represent overall experience or proficiency.
+> GitHub language statistics show the languages detected in public repositories. They do not measure overall experience or skill level.
 
 ---
 
@@ -95,26 +77,24 @@
 
 <a href="https://github.com/DavidRabinow">
   <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=DavidRabinow&theme=tokyonight&hide_border=true&border_radius=12"
+    src="https://streak-stats.demolab.com?user=DavidRabinow&theme=gruvbox&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"
     alt="David Rabinow's GitHub contribution streak"
-  >
+  />
 </a>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
 <a href="https://github.com/DavidRabinow">
   <img
-    width="90%"
-    src="https://github-profile-trophy.vercel.app/?username=DavidRabinow&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
+    src="https://github-profile-trophy.vercel.app/?username=DavidRabinow&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
     alt="David Rabinow's GitHub profile trophies"
-  >
+  />
 </a>
 
 </div>
@@ -125,20 +105,6 @@
 
 <div align="center">
 
-<img
-src="https://komarev.com/ghpvc/?username=DavidRabinow&label=Profile%20Views&color=1a73e8&style=for-the-badge"
-alt="David Rabinow's profile view count"
-
->
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile!
-
-⭐ Check out my repositories and follow my development journey.
+[![Profile Views](https://visitcount.itsvg.in/api?id=DavidRabinow\&label=Profile%20Views\&color=6\&icon=5\&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
